@@ -24,7 +24,7 @@ const SearchForm = () => {
             type="text"
             name="name"
             id="name"
-            placeholder="Enter Value...."
+            placeholder="Enter CockTail Name...."
             value={formInput}
             onChange={onChangeHandler}
           />
